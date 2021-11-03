@@ -20,4 +20,4 @@
 
 [instagram]: https://www.instagram.com/regular.joe13/
 [linkedin]: https://www.linkedin.com/in/joepault/
-[Blog]: https://joepault.wixsite.com/reflections/
+[Blog]: https://joepault.wixsite.com/reflections
