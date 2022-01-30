@@ -14,9 +14,10 @@
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png"/>][instagram]
 
+
 ## What I Work On
 
-[<img align="left" alt="bilgehangecici | Python" height="30px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"/>]
+<img align="left" alt="bilgehangecici | Python" height="30px" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png"/>
 
 
 [instagram]: https://www.instagram.com/regular.joe13/
