@@ -5,6 +5,7 @@
 
 - 🔭 I'm from Kerala, India.
 - 🌱 I’m interested in machine learning and data science.
+- ⚒️ I'm interested in product management.
 - 👯 I’m also a Flutter enthusiast.
 - 🤔 I sometimes write on a blog
 - 💬 I love watching and reading crime thrillers!
